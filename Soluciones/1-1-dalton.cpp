@@ -40,11 +40,8 @@ bool resuelveCaso() {
 
 	vector<int> v(n);
 
-	for (int i = 0; i < n; i++) {
-		int d;
-		cin >> d;
-		v[i] = d;
-	}
+	for (int& e : v)
+		cin >> e;
 
 	if (esDalton(v))
 		cout << "DALTON\n";

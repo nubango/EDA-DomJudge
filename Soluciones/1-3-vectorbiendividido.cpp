@@ -40,10 +40,8 @@ void resuelveCaso() {
 
 	vector<int> v(n);
 
-	for (int i = 0; i < v.size(); i++) {
-		cin >> n;
-		v[i] = n;
-	}
+	for (int& e : v)
+		cin >> e;
 
 	if (bienDividido(v, p))
 		cout << "SI\n";

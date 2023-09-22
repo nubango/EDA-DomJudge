@@ -39,12 +39,10 @@ void mejorIntervalo(const vector<int>& v, int t, int& ini, int& fin) {
 void resuelveCaso() {
 	int n, t;
 	cin >> n >> t;
-	vector<int> v(n, 0);
+	vector<int> v(n);
 
-	for (int i = 0; i < v.size(); i++) {
-		cin >> n;
-		v[i] = n;
-	}
+	for (int& e : v)
+		cin >> e;
 
 	int ini, fin;
 	mejorIntervalo(v, t, ini, fin);

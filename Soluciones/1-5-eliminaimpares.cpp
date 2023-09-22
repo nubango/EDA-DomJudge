@@ -28,8 +28,8 @@ void eliminaImpares(vector<long long int>& v) {
 }
 
 void escribeVector(const vector<long long int>& v) {
-	for (int i = 0; i < v.size(); i++)
-		cout << v[i] << " ";
+	for (long long int e: v)
+		cout << e << " ";
 	cout << "\n";
 }
 
@@ -37,12 +37,10 @@ void resuelveCaso() {
 	long long int n;
 	cin >> n;
 
-	vector<long long int> v(n, 0);
+	vector<long long int> v(n);
 
-	for (int i = 0; i < v.size(); i++) {
-		cin >> n;
-		v[i] = n;
-	}
+	for (long long int& e : v)
+		cin >> e;
 
 	eliminaImpares(v);
 	escribeVector(v);

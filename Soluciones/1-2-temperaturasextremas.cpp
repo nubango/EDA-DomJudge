@@ -40,12 +40,10 @@ void resuelveCaso() {
 	int n;
 	cin >> n;
 
-	vector<int> v(n,0);
+	vector<int> v(n);
 
-	for (int i = 0; i < v.size(); i++){
-		cin >> n;
-		v[i] = n;
-	}
+	for (int& e : v)
+		cin >> e;
 
 	datos d = numPicosValles(v);
 
