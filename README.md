@@ -12,3 +12,5 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Temperaturas extremas](Problemset/1-2-TemperaturasExtremas.pdf)|[temperaturasExtremas.cpp](Soluciones/1-2-temperaturasextremas.cpp)|
 [¿Está bien dividido el vector?](Problemset/1-3-VectorBienDividido.pdf)|[vectorBienDividido.cpp](Soluciones/1-3-vectorbiendividido.cpp)|
 [Anagramas](Problemset/1-4-Anagramas.pdf)|[anagramas.cpp](Soluciones/1-4-anagramas.cpp)|
+[Elimina valores impares](Problemset/1-5-EliminarImpares.pdf)|[eliminaImpares.cpp](Soluciones/1-5-eliminaimpares.cpp)|
+[Rescate aereo](Problemset/1-6-RescateAereo.pdf)|[rescateAereo.cpp](Soluciones/1-6-rescateaereo.cpp)|
