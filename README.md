@@ -14,3 +14,4 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Anagramas](Problemset/1-4-Anagramas.pdf)|[anagramas.cpp](Soluciones/1-4-anagramas.cpp)|
 [Elimina valores impares](Problemset/1-5-EliminarImpares.pdf)|[eliminaImpares.cpp](Soluciones/1-5-eliminaimpares.cpp)|
 [Rescate aereo](Problemset/1-6-RescateAereo.pdf)|[rescateAereo.cpp](Soluciones/1-6-rescateaereo.cpp)|
+[Comparando listados ordenados](Problemset/1-7-ComparaListadoOrdenado.pdf)|[comparaListadoOrdenado.cpp](Soluciones/1-7-comparalistadoordenado.cpp)|
