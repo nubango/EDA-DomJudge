@@ -1,7 +1,9 @@
 # EDA-DOMjudge
+
 Estructuras de Datos y Algoritmos - Juez Automatico
 
 ## Tabla de contenidos
+
 | Problemset | Solución |
 |:--:|:--:|
 [Hello World!](Problemset/0-1-HelloWorld.pdf)|[helloworld.cpp](Soluciones/0-1-helloworld.cpp)|
@@ -15,3 +17,7 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Elimina valores impares](Problemset/1-5-EliminarImpares.pdf)|[eliminaImpares.cpp](Soluciones/1-5-eliminaimpares.cpp)|
 [Rescate aereo](Problemset/1-6-RescateAereo.pdf)|[rescateAereo.cpp](Soluciones/1-6-rescateaereo.cpp)|
 [Comparando listados ordenados](Problemset/1-7-ComparaListadoOrdenado.pdf)|[comparaListadoOrdenado.cpp](Soluciones/1-7-comparalistadoordenado.cpp)|
+[Dígitos complementarios](Problemset/2-01-DigitosComplementarios.pdf)|[digitosComplementarios.cpp](Soluciones/2-01-digitoscomplementarios.cpp)|
+[Vector parcialmente ordenado](Problemset/2-02-ParcialmenteOrdenado.pdf)|[parcialmenteOrdenado.cpp](Soluciones/2-02-vectorparcialmenteordenado.cpp)|
+[Suficientemente disperso](Problemset/2-03-SuficientementeDisperso.pdf)|[suficientementeDisperso.cpp](Soluciones/2-03-suficientementedisperso.cpp)|
+[Números caucásicos](Problemset/2-04-Caucasicos.pdf)| - |
