@@ -21,3 +21,8 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Vector parcialmente ordenado](Problemset/2-02-ParcialmenteOrdenado.pdf)|[parcialmenteOrdenado.cpp](Soluciones/2-02-vectorparcialmenteordenado.cpp)|
 [Suficientemente disperso](Problemset/2-03-SuficientementeDisperso.pdf)|[suficientementeDisperso.cpp](Soluciones/2-03-suficientementedisperso.cpp)|
 [Números caucásicos](Problemset/2-04-Caucasicos.pdf)| - |
+[Elementos bien situados](Problemset/2-05-ElementosBienSituados.pdf)| [elementosBienSituados.cpp](Soluciones/2-05-elementosbiensituados.cpp) |
+[Perfil de una curva cóncava](Problemset/2-06-CurvaConcava.pdf)| [perfilCurvaConcava.cpp](Soluciones/2-06-perfilcurvaconcava.cpp) |
+[Obtener el mínimo de un vector rotado](Problemset/2-07-MinimoVectorRotado.pdf)| - |
+[Buscar un elemento en un vector rotado](Problemset/2-08-ElementoVectorRotado.pdf)| - |
+[Solo un impar](Problemset/2-09-SoloUnImpar.pdf)| - |
