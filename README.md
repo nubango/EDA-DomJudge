@@ -23,7 +23,9 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Números caucásicos](Problemset/2-04-Caucasicos.pdf)| - |
 [Elementos bien situados](Problemset/2-05-ElementosBienSituados.pdf)| [elementosBienSituados.cpp](Soluciones/2-05-elementosbiensituados.cpp) |
 [Perfil de una curva cóncava](Problemset/2-06-CurvaConcava.pdf)| [perfilCurvaConcava.cpp](Soluciones/2-06-perfilcurvaconcava.cpp) |
-[Obtener el mínimo de un vector rotado](Problemset/2-07-MinimoVectorRotado.pdf)| - |
+[Obtener el mínimo de un vector rotado](Problemset/2-07-MinimoVectorRotado.pdf)| [minimoVectorRotado.cpp](Soluciones/2-07-minimovectorrotado.cpp) |
 [Buscar un elemento en un vector rotado](Problemset/2-08-ElementoVectorRotado.pdf)| - |
 [Solo un impar](Problemset/2-09-SoloUnImpar.pdf)| - |
 [Todos repetidos menos uno](Problemset/2-10-RepetidosMenoUno.pdf)| [repetidosMenosUno.cpp](Soluciones/2-10-repetidosmenosuno.cpp) |
+[Buscar el elemento perdido](Problemset)| - |
+[Fuga de prisión](Problemset)| - |
