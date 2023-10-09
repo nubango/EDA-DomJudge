@@ -27,5 +27,9 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Buscar un elemento en un vector rotado](Problemset/2-08-ElementoVectorRotado.pdf)| - |
 [Solo un impar](Problemset/2-09-SoloUnImpar.pdf)| - |
 [Todos repetidos menos uno](Problemset/2-10-RepetidosMenoUno.pdf)| [repetidosMenosUno.cpp](Soluciones/2-10-repetidosmenosuno.cpp) |
-[Buscar el elemento perdido](Problemset)| - |
-[Fuga de prisión](Problemset)| - |
+[Buscar el elemento perdido](Problemset/2-11-ElementoPerdido.pdf)| - |
+[Fuga de prisión](Problemset/2-12-FugaDePrision.pdf)| - |
+[¿A qué hora pasa el proximo tren?](Problemset/4-1-ProximoTren.pdf)| - |
+[Evaluar un polinomio](Problemset/4-2-EvaluarPolinomio.pdf)| - |
+[Números felices](Problemset/4-3-NumerosFelices.pdf)| - |
+[Una tarde de sábado](Problemset/4-4-TardeSabado.pdf)| - |
