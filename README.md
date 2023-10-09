@@ -26,3 +26,4 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Obtener el mínimo de un vector rotado](Problemset/2-07-MinimoVectorRotado.pdf)| - |
 [Buscar un elemento en un vector rotado](Problemset/2-08-ElementoVectorRotado.pdf)| - |
 [Solo un impar](Problemset/2-09-SoloUnImpar.pdf)| - |
+[Todos repetidos menos uno](Problemset/2-10-RepetidosMenoUno.pdf)| [repetidosMenosUno.cpp](Soluciones/2-10-repetidosmenosuno.cpp) |
