@@ -4,6 +4,9 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 
 ## Tabla de contenidos
 
+[comment]: <> (25/47 -> 2500/47 = 53)
+![](https://progress-bar.dev/53/?scale=100&title=&width=740&suffix=%)
+
 | Problemset | Solución |
 |:--:|:--:|
 [Hello World!](Problemset/0-1-HelloWorld.pdf)|[helloworld.cpp](Soluciones/0-1-helloworld.cpp)|
