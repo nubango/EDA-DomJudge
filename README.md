@@ -46,3 +46,6 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Mezclar listas enlazadas ordenadas](Problemset/5-07-MezclarListas.pdf)| - |
 [A la cola pepsi-cola](Problemset/5-08-PepsiCola.pdf)| - |
 [El alumno afortunado](Problemset/5-09-AlumnoAfortunado.pdf)| - |
+[Ordenación con complejidad lineal](Problemset/5-10-OrdenacionLineal.pdf)| [ordenacionLineal.cpp](Soluciones/5-10-ordenacionlineal.cpp) |
+[Eliminar todas las apariciones de un elemento en una lista (interno)](Problemset/5-11-EliminarListaInterno.pdf)| [eliminarListaInterno.cpp](Soluciones/5-11-eliminarlistainterno.cpp) |
+[Eliminar todas las apariciones de un elemento en una lista (externo)](Problemset/5-12-EliminarListaExterno.pdf)| [eliminarListaExterno.cpp](Soluciones/5-12-eliminarlistaexterno.cpp) |
