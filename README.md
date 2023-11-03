@@ -49,3 +49,4 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Ordenación con complejidad lineal](Problemset/5-10-OrdenacionLineal.pdf)| [ordenacionLineal.cpp](Soluciones/5-10-ordenacionlineal.cpp) |
 [Eliminar todas las apariciones de un elemento en una lista (interno)](Problemset/5-11-EliminarListaInterno.pdf)| [eliminarListaInterno.cpp](Soluciones/5-11-eliminarlistainterno.cpp) |
 [Eliminar todas las apariciones de un elemento en una lista (externo)](Problemset/5-12-EliminarListaExterno.pdf)| [eliminarListaExterno.cpp](Soluciones/5-12-eliminarlistaexterno.cpp) |
+[Adelantar segmento](Problemset/5-13-AdelantarSegmento.pdf)| [adelantarSegmento.cpp](Soluciones/5-13-adelantarsegmento.cpp) |
