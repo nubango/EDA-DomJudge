@@ -33,3 +33,16 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Evaluar un polinomio](Problemset/4-2-EvaluarPolinomio.pdf)| - |
 [Números felices](Problemset/4-3-NumerosFelices.pdf)| - |
 [Una tarde de sábado](Problemset/4-4-TardeSabado.pdf)| - |
+[Butacas en el teatro](Problemset/4-5-ButacasTeatro.pdf)| - |
+[Operación inclusión sobre el TAD Set](Problemset/4-6-InclusionTADSet.pdf)| - |
+[Los k menores usando el TAD Set](Problemset/4-7-kMenores.pdf)| - |
+[Unión e intersección sobre el TAD Set](Problemset/4-8-UnionIntersecTADSet.pdf)| - |
+[Paréntesis equilibrados](Problemset/5-01-ParentesisEquilibrados.pdf)| [parentesisEquilibrados.cpp](Soluciones/5-01-parentesisequilibrados.cpp) |
+[Accidentes aéreos](Problemset/5-02-AccidentesAereos.pdf)| - |
+[Reordenando la cola](Problemset/5-03-ReordenarCola.pdf)| [reordenarCola.cpp](Soluciones/5-03-reordenarcola.cpp) |
+[Duplicar todos los elementos de una cola](Problemset/5-04-DuplicarCola.pdf)| [duplicarCola.cpp](Soluciones/5-04-duplicarcola.cpp) |
+[Invertir una cola](Problemset/5-05-InvertirCola.pdf)| - |
+[Decodificación de mensajes](Problemset/5-06-DecodificarMensajes.pdf)| - |
+[Mezclar listas enlazadas ordenadas](Problemset/5-07-MezclarListas.pdf)| - |
+[A la cola pepsi-cola](Problemset/5-08-PepsiCola.pdf)| - |
+[El alumno afortunado](Problemset/5-09-AlumnoAfortunado.pdf)| - |
