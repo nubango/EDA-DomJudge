@@ -4,7 +4,7 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 
 ## Tabla de contenidos
 
-[comment]: <> (25/47 -> 2500/47 = 53)
+[comment]: <> (29/54 -> 2900/54 = 53)
 ![](https://progress-bar.dev/53/?scale=100&title=&width=740&suffix=%)
 
 | Problemset | Solución |
@@ -23,14 +23,14 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Dígitos complementarios](Problemset/2-01-DigitosComplementarios.pdf)|[digitosComplementarios.cpp](Soluciones/2-01-digitoscomplementarios.cpp)|
 [Vector parcialmente ordenado](Problemset/2-02-ParcialmenteOrdenado.pdf)|[parcialmenteOrdenado.cpp](Soluciones/2-02-vectorparcialmenteordenado.cpp)|
 [Suficientemente disperso](Problemset/2-03-SuficientementeDisperso.pdf)|[suficientementeDisperso.cpp](Soluciones/2-03-suficientementedisperso.cpp)|
-[Números caucásicos](Problemset/2-04-Caucasicos.pdf)| - |
+[Números caucásicos](Problemset/2-04-Caucasicos.pdf)| [numerosCaucasicos.cpp](Soluciones/2-04-numeroscaucasicos.cpp) |
 [Elementos bien situados](Problemset/2-05-ElementosBienSituados.pdf)| [elementosBienSituados.cpp](Soluciones/2-05-elementosbiensituados.cpp) |
 [Perfil de una curva cóncava](Problemset/2-06-CurvaConcava.pdf)| [perfilCurvaConcava.cpp](Soluciones/2-06-perfilcurvaconcava.cpp) |
 [Obtener el mínimo de un vector rotado](Problemset/2-07-MinimoVectorRotado.pdf)| [minimoVectorRotado.cpp](Soluciones/2-07-minimovectorrotado.cpp) |
-[Buscar un elemento en un vector rotado](Problemset/2-08-ElementoVectorRotado.pdf)| - |
-[Solo un impar](Problemset/2-09-SoloUnImpar.pdf)| - |
+[Buscar un elemento en un vector rotado](Problemset/2-08-ElementoVectorRotado.pdf)| [vectorRotado.cpp](Soluciones/2-08-elementovectorrotado.cpp) |
+[Solo un impar](Problemset/2-09-SoloUnImpar.pdf)| [soloUnImpar.cpp](Soluciones/2-09-solounimpar.cpp) |
 [Todos repetidos menos uno](Problemset/2-10-RepetidosMenoUno.pdf)| [repetidosMenosUno.cpp](Soluciones/2-10-repetidosmenosuno.cpp) |
-[Buscar el elemento perdido](Problemset/2-11-ElementoPerdido.pdf)| - |
+[Buscar el elemento perdido](Problemset/2-11-ElementoPerdido.pdf)| [elementoPerdido.cpp](Soluciones/2-11-elementoperdido.cpp) |
 [Fuga de prisión](Problemset/2-12-FugaDePrision.pdf)| - |
 [¿A qué hora pasa el proximo tren?](Problemset/4-1-ProximoTren.pdf)| - |
 [Evaluar un polinomio](Problemset/4-2-EvaluarPolinomio.pdf)| - |
@@ -53,3 +53,6 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Eliminar todas las apariciones de un elemento en una lista (interno)](Problemset/5-11-EliminarListaInterno.pdf)| [eliminarListaInterno.cpp](Soluciones/5-11-eliminarlistainterno.cpp) |
 [Eliminar todas las apariciones de un elemento en una lista (externo)](Problemset/5-12-EliminarListaExterno.pdf)| [eliminarListaExterno.cpp](Soluciones/5-12-eliminarlistaexterno.cpp) |
 [Adelantar segmento](Problemset/5-13-AdelantarSegmento.pdf)| [adelantarSegmento.cpp](Soluciones/5-13-adelantarsegmento.cpp) |
+[Número de nodos, hojas y altura de un árbol binario](Problemset/6-01-NodosHojasAltura.pdf)| - |
+[La frontera](Problemset/6-02-Frontera.pdf)| - |
+[Elemento mínimo de un árbol](Problemset/6-03-MinimoArbol.pdf)| - |
