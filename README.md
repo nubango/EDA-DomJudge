@@ -4,8 +4,8 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 
 ## Tabla de contenidos
 
-[comment]: <> (30/54 -> 3000/54 = 55)
-![](https://progress-bar.dev/55/?scale=100&title=&width=740&suffix=%)
+[comment]: <> (30/61 -> 3000/61 = 49)
+![](https://progress-bar.dev/49/?scale=100&title=&width=740&suffix=%)
 
 | Problemset | Solución |
 |:--:|:--:|
@@ -56,3 +56,10 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Número de nodos, hojas y altura de un árbol binario](Problemset/6-01-NodosHojasAltura.pdf)| - |
 [La frontera](Problemset/6-02-Frontera.pdf)| - |
 [Elemento mínimo de un árbol](Problemset/6-03-MinimoArbol.pdf)| - |
+[Referencias cruzadas](Problemset/7-1-ReferenciasCruzadas.pdf)| - |
+[Actualización de un diccionario](Problemset/7-2-Diccionario.pdf)| - |
+[Capítulos repetidos](Problemset/7-3-CapitulosRepetidos.pdf)| - |
+[Eligiendo deporte](Problemset/7-4-EligiendoDeporte.pdf)| - |
+[Actor más visto](Problemset/7-5-ActorMasVisto.pdf)| - |
+[Carnet por puntos](Problemset/8-1-CarnetPorPuntos.pdf)| - |
+[Consultorio médico](Problemset/8-2-ConsultorioMedico.pdf)| - |
