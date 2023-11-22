@@ -4,8 +4,8 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 
 ## Tabla de contenidos
 
-[comment]: <> (29/54 -> 2900/54 = 53)
-![](https://progress-bar.dev/53/?scale=100&title=&width=740&suffix=%)
+[comment]: <> (30/54 -> 3000/54 = 55)
+![](https://progress-bar.dev/55/?scale=100&title=&width=740&suffix=%)
 
 | Problemset | Solución |
 |:--:|:--:|
@@ -31,7 +31,7 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Solo un impar](Problemset/2-09-SoloUnImpar.pdf)| [soloUnImpar.cpp](Soluciones/2-09-solounimpar.cpp) |
 [Todos repetidos menos uno](Problemset/2-10-RepetidosMenoUno.pdf)| [repetidosMenosUno.cpp](Soluciones/2-10-repetidosmenosuno.cpp) |
 [Buscar el elemento perdido](Problemset/2-11-ElementoPerdido.pdf)| [elementoPerdido.cpp](Soluciones/2-11-elementoperdido.cpp) |
-[Fuga de prisión](Problemset/2-12-FugaDePrision.pdf)| - |
+[Fuga de prisión](Problemset/2-12-FugaDePrision.pdf)| [fugaPrision.cpp](Soluciones/2-12-fugaprision.cpp) |
 [¿A qué hora pasa el proximo tren?](Problemset/4-1-ProximoTren.pdf)| - |
 [Evaluar un polinomio](Problemset/4-2-EvaluarPolinomio.pdf)| - |
 [Números felices](Problemset/4-3-NumerosFelices.pdf)| - |
