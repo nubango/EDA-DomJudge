@@ -4,8 +4,8 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 
 ## Tabla de contenidos
 
-[comment]: <> (30/61 -> 3000/61 = 49)
-![](https://progress-bar.dev/49/?scale=100&title=&width=740&suffix=%)
+[comment]: <> (34/65 -> 3400/65 = 52)
+![](https://progress-bar.dev/52/?scale=100&title=&width=740&suffix=%)
 
 | Problemset | Solución |
 |:--:|:--:|
@@ -32,6 +32,10 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Todos repetidos menos uno](Problemset/2-10-RepetidosMenoUno.pdf)| [repetidosMenosUno.cpp](Soluciones/2-10-repetidosmenosuno.cpp) |
 [Buscar el elemento perdido](Problemset/2-11-ElementoPerdido.pdf)| [elementoPerdido.cpp](Soluciones/2-11-elementoperdido.cpp) |
 [Fuga de prisión](Problemset/2-12-FugaDePrision.pdf)| [fugaPrision.cpp](Soluciones/2-12-fugaprision.cpp) |
+[Generar todas las variaciones con repetición de un conjunto](Problemset/3-01-VariacionesConRepeticion.pdf)| [variacionesConRepeticion.cpp](Soluciones/3-01-variacionesconrepeticion.cpp) |
+[Generar todas las variaciones sin repetición de un conjunto](Problemset/3-02-VariacionesSinRepeticion.pdf)| [variacionesSinRepeticion.cpp](Soluciones/3-02-variacionessinrepeticion.cpp) |
+[Las N reinas (sin poda)](Problemset/3-03-ReinasSinPoda.pdf)| [reinasSinPoda.cpp](Soluciones/3-03-reinassinpoda.cpp) |
+[Las N reinas](Problemset/3-04-Nreinas.pdf)| [nReinas.cpp](Soluciones/3-04-nreinas.cpp) |
 [¿A qué hora pasa el proximo tren?](Problemset/4-1-ProximoTren.pdf)| - |
 [Evaluar un polinomio](Problemset/4-2-EvaluarPolinomio.pdf)| - |
 [Números felices](Problemset/4-3-NumerosFelices.pdf)| - |
