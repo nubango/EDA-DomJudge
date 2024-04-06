@@ -4,8 +4,8 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 
 ## Tabla de contenidos
 
-[comment]: <> (34/65 -> 3400/65 = 52)
-![](https://progress-bar.dev/52/?scale=100&title=&width=740&suffix=%)
+[comment]: <> (35/65 + 1 tad -> 3500/65 = 54)
+![](https://progress-bar.dev/54/?scale=100&title=&width=740&suffix=%)
 
 | Problemset | Solución |
 |:--:|:--:|
@@ -43,7 +43,7 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Butacas en el teatro](Problemset/4-5-ButacasTeatro.pdf)| - |
 [Operación inclusión sobre el TAD Set](Problemset/4-6-InclusionTADSet.pdf)| - |
 [Los k menores usando el TAD Set](Problemset/4-7-kMenores.pdf)| - |
-[Unión e intersección sobre el TAD Set](Problemset/4-8-UnionIntersecTADSet.pdf)| - |
+[Unión e intersección sobre el TAD Set](Problemset/4-8-UnionIntersecTADSet.pdf)| [unionInterseccionSet.cpp](Soluciones/4-8-unioninterseccionset.cpp) + [set.h](Soluciones/4-8-Set.h) |
 [Paréntesis equilibrados](Problemset/5-01-ParentesisEquilibrados.pdf)| [parentesisEquilibrados.cpp](Soluciones/5-01-parentesisequilibrados.cpp) |
 [Accidentes aéreos](Problemset/5-02-AccidentesAereos.pdf)| - |
 [Reordenando la cola](Problemset/5-03-ReordenarCola.pdf)| [reordenarCola.cpp](Soluciones/5-03-reordenarcola.cpp) |
