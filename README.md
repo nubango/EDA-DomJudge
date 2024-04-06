@@ -4,8 +4,8 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 
 ## Tabla de contenidos
 
-[comment]: <> (35/65 + 1 tad -> 3500/65 = 54)
-![](https://progress-bar.dev/54/?scale=100&title=&width=740&suffix=%)
+[comment]: <> (37/65 + 1 tad -> 3700/65 = 57)
+![](https://progress-bar.dev/57/?scale=100&title=&width=740&suffix=%)
 
 | Problemset | Solución |
 |:--:|:--:|
@@ -48,8 +48,8 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Accidentes aéreos](Problemset/5-02-AccidentesAereos.pdf)| - |
 [Reordenando la cola](Problemset/5-03-ReordenarCola.pdf)| [reordenarCola.cpp](Soluciones/5-03-reordenarcola.cpp) |
 [Duplicar todos los elementos de una cola](Problemset/5-04-DuplicarCola.pdf)| [duplicarCola.cpp](Soluciones/5-04-duplicarcola.cpp) |
-[Invertir una cola](Problemset/5-05-InvertirCola.pdf)| - |
-[Decodificación de mensajes](Problemset/5-06-DecodificarMensajes.pdf)| - |
+[Invertir una cola](Problemset/5-05-InvertirCola.pdf)| [invertirCola.cpp](Soluciones/5-05-invertircola.cpp) |
+[Decodificación de mensajes](Problemset/5-06-DecodificarMensajes.pdf)| [decodificarMensajes.cpp](Soluciones/5-06-decodificarmensajes.cpp) |
 [Mezclar listas enlazadas ordenadas](Problemset/5-07-MezclarListas.pdf)| - |
 [A la cola pepsi-cola](Problemset/5-08-PepsiCola.pdf)| - |
 [El alumno afortunado](Problemset/5-09-AlumnoAfortunado.pdf)| - |
