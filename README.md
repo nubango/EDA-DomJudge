@@ -1,11 +1,11 @@
 # EDA-DOMjudge
 
-Estructuras de Datos y Algoritmos - Juez Automatico
+Ejercicios de la asignatura Estructuras de Datos y Algoritmos - Juez Automatico
 
 ## Tabla de contenidos
 
 [comment]: <> (55/68 + 1 tad -> 5500/68 = 81)
-![](https://progress-bar.dev/81/?scale=100&title=&width=740&suffix=%)
+![](https://progress-bar.dev/81/?scale=100&title=&width=760&suffix=%)
 
 | Problemset | Solución |
 |:--:|:--:|
