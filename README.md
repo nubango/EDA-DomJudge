@@ -4,8 +4,8 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 
 ## Tabla de contenidos
 
-[comment]: <> (47/67 + 1 tad -> 4700/67 = 67)
-![](https://progress-bar.dev/67/?scale=100&title=&width=740&suffix=%)
+[comment]: <> (50/68 + 1 tad -> 5000/68 = 74)
+![](https://progress-bar.dev/74/?scale=100&title=&width=740&suffix=%)
 
 | Problemset | Solución |
 |:--:|:--:|
@@ -36,6 +36,7 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Generar todas las variaciones sin repetición de un conjunto](Problemset/3-02-VariacionesSinRepeticion.pdf)| [variacionesSinRepeticion.cpp](Soluciones/3-02-variacionessinrepeticion.cpp) |
 [Las N reinas (sin poda)](Problemset/3-03-ReinasSinPoda.pdf)| [reinasSinPoda.cpp](Soluciones/3-03-reinassinpoda.cpp) |
 [Las N reinas](Problemset/3-04-Nreinas.pdf)| [nReinas.cpp](Soluciones/3-04-nreinas.cpp) |
+[Torres de colores](Problemset/3-07-TorresColores.pdf)| - |
 [¿A qué hora pasa el proximo tren?](Problemset/4-1-ProximoTren.pdf)| - |
 [Evaluar un polinomio](Problemset/4-2-EvaluarPolinomio.pdf)| - |
 [Números felices](Problemset/4-3-NumerosFelices.pdf)| - |
@@ -70,4 +71,10 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Concurso programación](Problemset/7-6-ConcursoProgramacion.pdf)| [concursoProgramacion.cpp](Soluciones/7-6-concursoprogramacion.cpp) |
 [Carnet por puntos](Problemset/8-1-CarnetPorPuntos.pdf)| - |
 [Consultorio médico](Problemset/8-2-ConsultorioMedico.pdf)| - |
+[Venta de libros por internet](Problemset/8-3-VentaLibros.pdf)| - |
+[Carnet por puntos 2](Problemset/8-4-CarnetPorPuntos2.pdf)| - |
+[iPud](Problemset/8-5-IpudSencillo.pdf)| - |
 [Elecciones Presidenciales](Problemset/8-7-EleccionesPresidenciales.pdf)| [eleccionesPresidenciales.cpp](Soluciones/8-7-eleccionespresidenciales.cpp) |
+[El regreso de los enanos](Problemset/ExamenEnero24-Ej1.pdf)| [regresoEnanos.cpp](Soluciones/2024-enero-1-regresoenanos.cpp) |
+[Cruce de líneas](Problemset/ExamenEnero24-Ej2.pdf)| [cruceLineas.cpp](Soluciones/2024-enero-2-crucelineas.cpp) |
+[Juego de batallas](Problemset/ExamenEnero24-Ej3.pdf)| [juegoBatallas.cpp](Soluciones/2024-enero-3-juegobatallas.cpp) |
