@@ -4,8 +4,8 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 
 ## Tabla de contenidos
 
-[comment]: <> (46/66 + 1 tad -> 4600/66 = 70)
-![](https://progress-bar.dev/70/?scale=100&title=&width=740&suffix=%)
+[comment]: <> (47/67 + 1 tad -> 4700/67 = 67)
+![](https://progress-bar.dev/67/?scale=100&title=&width=740&suffix=%)
 
 | Problemset | Solución |
 |:--:|:--:|
@@ -70,3 +70,4 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Concurso programación](Problemset/7-6-ConcursoProgramacion.pdf)| [concursoProgramacion.cpp](Soluciones/7-6-concursoprogramacion.cpp) |
 [Carnet por puntos](Problemset/8-1-CarnetPorPuntos.pdf)| - |
 [Consultorio médico](Problemset/8-2-ConsultorioMedico.pdf)| - |
+[Elecciones Presidenciales](Problemset/8-7-EleccionesPresidenciales.pdf)| [eleccionesPresidenciales.cpp](Soluciones/8-7-eleccionespresidenciales.cpp) |
