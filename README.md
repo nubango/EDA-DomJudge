@@ -4,8 +4,8 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 
 ## Tabla de contenidos
 
-[comment]: <> (50/68 + 1 tad -> 5000/68 = 74)
-![](https://progress-bar.dev/74/?scale=100&title=&width=740&suffix=%)
+[comment]: <> (55/68 + 1 tad -> 5500/68 = 81)
+![](https://progress-bar.dev/81/?scale=100&title=&width=740&suffix=%)
 
 | Problemset | Solución |
 |:--:|:--:|
@@ -37,13 +37,13 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Las N reinas (sin poda)](Problemset/3-03-ReinasSinPoda.pdf)| [reinasSinPoda.cpp](Soluciones/3-03-reinassinpoda.cpp) |
 [Las N reinas](Problemset/3-04-Nreinas.pdf)| [nReinas.cpp](Soluciones/3-04-nreinas.cpp) |
 [Torres de colores](Problemset/3-07-TorresColores.pdf)| - |
-[¿A qué hora pasa el proximo tren?](Problemset/4-1-ProximoTren.pdf)| - |
+[¿A qué hora pasa el proximo tren?](Problemset/4-1-ProximoTren.pdf)| [horaProximoTren.cpp](Soluciones/4-1-horaproximotren.cpp) |
 [Evaluar un polinomio](Problemset/4-2-EvaluarPolinomio.pdf)| - |
-[Números felices](Problemset/4-3-NumerosFelices.pdf)| - |
-[Una tarde de sábado](Problemset/4-4-TardeSabado.pdf)| - |
+[Números felices](Problemset/4-3-NumerosFelices.pdf)| [numerosFelices.cpp](Soluciones/4-3-numerosfelices.cpp) |
+[Una tarde de sábado](Problemset/4-4-TardeSabado.pdf)| [tardeSabado.cpp](Soluciones//4-4-tardesabado.cpp) |
 [Butacas en el teatro](Problemset/4-5-ButacasTeatro.pdf)| - |
-[Operación inclusión sobre el TAD Set](Problemset/4-6-InclusionTADSet.pdf)| - |
-[Los k menores usando el TAD Set](Problemset/4-7-kMenores.pdf)| - |
+[Operación inclusión sobre el TAD Set](Problemset/4-6-InclusionTADSet.pdf)| [inclusionSet.cpp](Soluciones/4-6-operatorset.cpp) + [set.h](Soluciones/4-6-Set.h) |
+[Los k menores usando el TAD Set](Problemset/4-7-kMenores.pdf)| [kmenores.cpp](Soluciones/4-7-knumerosset.cpp) + [set.h](Soluciones/4-7-Set.h)|
 [Unión e intersección sobre el TAD Set](Problemset/4-8-UnionIntersecTADSet.pdf)| [unionInterseccionSet.cpp](Soluciones/4-8-unioninterseccionset.cpp) + [set.h](Soluciones/4-8-Set.h) |
 [Paréntesis equilibrados](Problemset/5-01-ParentesisEquilibrados.pdf)| [parentesisEquilibrados.cpp](Soluciones/5-01-parentesisequilibrados.cpp) |
 [Accidentes aéreos](Problemset/5-02-AccidentesAereos.pdf)| - |
