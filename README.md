@@ -4,8 +4,8 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 
 ## Tabla de contenidos
 
-[comment]: <> (37/65 + 1 tad -> 3700/65 = 57)
-![](https://progress-bar.dev/57/?scale=100&title=&width=740&suffix=%)
+[comment]: <> (42/65 + 1 tad -> 4200/65 = 64)
+![](https://progress-bar.dev/64/?scale=100&title=&width=740&suffix=%)
 
 | Problemset | Solución |
 |:--:|:--:|
@@ -57,9 +57,11 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Eliminar todas las apariciones de un elemento en una lista (interno)](Problemset/5-11-EliminarListaInterno.pdf)| [eliminarListaInterno.cpp](Soluciones/5-11-eliminarlistainterno.cpp) |
 [Eliminar todas las apariciones de un elemento en una lista (externo)](Problemset/5-12-EliminarListaExterno.pdf)| [eliminarListaExterno.cpp](Soluciones/5-12-eliminarlistaexterno.cpp) |
 [Adelantar segmento](Problemset/5-13-AdelantarSegmento.pdf)| [adelantarSegmento.cpp](Soluciones/5-13-adelantarsegmento.cpp) |
-[Número de nodos, hojas y altura de un árbol binario](Problemset/6-01-NodosHojasAltura.pdf)| - |
-[La frontera](Problemset/6-02-Frontera.pdf)| - |
-[Elemento mínimo de un árbol](Problemset/6-03-MinimoArbol.pdf)| - |
+[Número de nodos, hojas y altura de un árbol binario](Problemset/6-01-NodosHojasAltura.pdf)| [nodosHojasAltura.cpp](Soluciones/6-01-nodoshojasaltura.cpp) |
+[La frontera](Problemset/6-02-Frontera.pdf)| [frontera.cpp](Soluciones/6-02-frontera.cpp) |
+[Elemento mínimo de un árbol](Problemset/6-03-MinimoArbol.pdf)| [elementoMinimoArbol.cpp](Soluciones/6-03-elementominimoarbol.cpp) |
+[¿Es un árbol binario de búsqueda?](Problemset/6-04-ABB.pdf)| [arbolBinarioBusqueda.cpp](Soluciones/6-04-arbolbinariodebusqueda.cpp) |
+[Aguaslimpias](Problemset/6-10-AguasLimpias.pdf)| [aguasLimpias.cpp](Soluciones/6-10-aguaslimpias.cpp) |
 [Referencias cruzadas](Problemset/7-1-ReferenciasCruzadas.pdf)| - |
 [Actualización de un diccionario](Problemset/7-2-Diccionario.pdf)| - |
 [Capítulos repetidos](Problemset/7-3-CapitulosRepetidos.pdf)| - |
