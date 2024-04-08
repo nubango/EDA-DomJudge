@@ -4,8 +4,8 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 
 ## Tabla de contenidos
 
-[comment]: <> (42/65 + 1 tad -> 4200/65 = 64)
-![](https://progress-bar.dev/64/?scale=100&title=&width=740&suffix=%)
+[comment]: <> (46/66 + 1 tad -> 4600/66 = 70)
+![](https://progress-bar.dev/70/?scale=100&title=&width=740&suffix=%)
 
 | Problemset | Solución |
 |:--:|:--:|
@@ -62,10 +62,11 @@ Estructuras de Datos y Algoritmos - Juez Automatico
 [Elemento mínimo de un árbol](Problemset/6-03-MinimoArbol.pdf)| [elementoMinimoArbol.cpp](Soluciones/6-03-elementominimoarbol.cpp) |
 [¿Es un árbol binario de búsqueda?](Problemset/6-04-ABB.pdf)| [arbolBinarioBusqueda.cpp](Soluciones/6-04-arbolbinariodebusqueda.cpp) |
 [Aguaslimpias](Problemset/6-10-AguasLimpias.pdf)| [aguasLimpias.cpp](Soluciones/6-10-aguaslimpias.cpp) |
-[Referencias cruzadas](Problemset/7-1-ReferenciasCruzadas.pdf)| - |
+[Referencias cruzadas](Problemset/7-1-ReferenciasCruzadas.pdf)| [referenciasCruzadas.cpp](Soluciones/7-1-referenciascruzadas.cpp) |
 [Actualización de un diccionario](Problemset/7-2-Diccionario.pdf)| - |
 [Capítulos repetidos](Problemset/7-3-CapitulosRepetidos.pdf)| - |
-[Eligiendo deporte](Problemset/7-4-EligiendoDeporte.pdf)| - |
-[Actor más visto](Problemset/7-5-ActorMasVisto.pdf)| - |
+[Eligiendo deporte](Problemset/7-4-EligiendoDeporte.pdf)| [eligiendoDeporte.cpp](Soluciones/7-4-eligiendodeporte.cpp) |
+[Actor más visto](Problemset/7-5-ActorMasVisto.pdf)| [actorMasVisto.cpp](Soluciones/7-5-actormasvisto.cpp) |
+[Concurso programación](Problemset/7-6-ConcursoProgramacion.pdf)| [concursoProgramacion.cpp](Soluciones/7-6-concursoprogramacion.cpp) |
 [Carnet por puntos](Problemset/8-1-CarnetPorPuntos.pdf)| - |
 [Consultorio médico](Problemset/8-2-ConsultorioMedico.pdf)| - |
